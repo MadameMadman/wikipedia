@@ -1,0 +1,6 @@
+.well-lg {
+    padding: 15px;
+    /* border-radius: 6px; */
+    border-radius: 0;
+    border: 1px solid #8f0000;
+}
